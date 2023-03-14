@@ -5,3 +5,7 @@ metadata:
   description: Ejie catalogo info
   annotations:
     'backstage.io/techdocs-ref': dir:.
+spec:
+  owner: nttdata
+  lifecycle: experimental
+  domain: cloud-apps
