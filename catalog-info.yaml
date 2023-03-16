@@ -14,6 +14,8 @@ spec:
   #  - ./components/service-integracion/service-integracion.yaml
   #  - ./resources/back-db/back-db-resource.yaml
   #  - ./resources/back-bucket/back-bucket-resource.yaml
-  owner: nttdata
+  owner: user:nttdata
   lifecycle: experimental
   domain: cloud-apps
+  type: location
+
